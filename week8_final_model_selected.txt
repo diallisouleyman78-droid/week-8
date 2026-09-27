@@ -1,0 +1,4 @@
+Final selected model: Logistic Regression (improved_model_week7.pkl)
+ROC-AUC: 0.6843
+F1 at 0.28 threshold: 0.6893
+Optimal cost threshold: 0.28

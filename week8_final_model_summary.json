@@ -1,0 +1,9 @@
+{
+  "final_model": "Logistic Regression (improved_model_week7.pkl)",
+  "selected_features_n": 30,
+  "roc_auc_test": 0.6843,
+  "f1_at_0.28_test": 0.6893,
+  "cost_optimal_threshold": 0.28,
+  "pipeline_test_passed": true,
+  "n_test_records": 966
+}
